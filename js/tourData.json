@@ -1,0 +1,540 @@
+[
+  {
+    "id": "tour1",
+    "name": "CAIRO TOP TOURS TO GIZA PYRAMIDS EGYPTIAN MUSEUM AND BAZAAR",
+    "description": "Embark on an unforgettable Cairo adventure with our Cairo Top Tours 8-Hour Experience. We handle everything, from seamless pick-up and drop-off at your Cairo location to an expert tour guide, entrance fees, and a delectable lunch at a local restaurant. Travel comfortably in a private A/C vehicle while exploring iconic attractions. Plus, customize your experience by adding thrilling options like exploring the pyramids from the inside, camel rides, quad biking in the desert, or a serene Felucca boat ride on the Nile",
+    "overview": "Commence an unforgettable adventure as your day kicks off at 8:00 am with ARABY'S Tours. Our expert guide will collect you from your hotel in Cairo or Giza, and your full-day journey begins with a visit to the awe-inspiring Giza Pyramids, including the iconic Great Pyramids of Cheops, Chephren, and Mykerinos. Explore the Valley Temple where ancient priests mummified King Chephren and get up close to the enigmatic Sphinx, guarding the grand funeral complex. Next, dive into Egypt's rich history at the Egyptian Museum of Antiquities, home to over 250,000 artifacts spanning 5,000 years, including a special exhibit dedicated to the treasures of Tutankhamun. Shop for exquisite souvenirs at Khan El Khalili Bazaar, known for its brassware, perfumes, gold, and more. We'll conclude the tour by dropping you off at your Cairo hotel. Enhance your experience with options like exploring the pyramids from the inside, camel rides, desert quad biking, or a serene Nile Felucca boat ride, all easily added during the booking process for an additional fee. Explore Egypt's wonders with ARABY'S Tours today!",
+    "price":15,
+    "coverPhoto": "https://content.r9cdn.net/rimg/dimg/9a/61/3dc6f5bb-city-25999-16ea40716ab.jpg",
+    "photos": [
+      "https://content.r9cdn.net/rimg/dimg/9a/61/3dc6f5bb-city-25999-16ea40716ab.jpg",
+      "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_galleries/40257/900x600-1-50-7f187d75fec1e2bed995d35702bf04b5.jpg",
+      "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_galleries/40257/900x600-1-50-4a14e084c2ec821d87cbbb5e4c50f769.jpg",
+      "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_galleries/40257/900x600-1-50-abfa90153df72a0ae9f39b3db27de1a8.jpg",
+      "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_galleries/40257/900x600-1-50-9e9c59027e1c38d0608ff79278be77c0.jpg",
+      "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_galleries/40257/900x600-1-50-1d103820da831a0d75edcf04d4c0d654.jpg"
+      
+    ],
+    
+    "fullPackage1person":140,
+    "fullPackage2person":90,
+    "fullPackage3to5person":85,
+    "fullPackageabove6Person":65,
+    "fullPackagechildfrom6":45,
+    "fullPackagechildunder6":0,
+
+    "CarTourEntry1person":120,
+    "CarTourEntry2person":85,
+    "CarTourEntry3to5person":70,
+    "CarTourEntryAbove6person":60,
+    "CarTourEntrychildFrom6person":35,
+    "CarTourEntryChildUnder6person":0,
+
+    "CarTour1Person":85,
+    "CarTour2Person":45,
+    "CarTour3to5Person":35,
+    "CarTourAbove6Person":20,
+    "CarTourChildFrom6Person":15,
+    "CarTourChildUnder6Person":0,
+
+    "carOnly1person":60,
+    "carOnly2person":35,
+    "carOnly3to5person":25,
+    "carOnlyAbove6person":15,
+    "carOnlyChildFrom6person":10,
+    "carOnly1ChildUnder6person":0,
+    "destinations": [
+      "- Giza Pyramids",
+      "- Egyptian Museum",
+      "- Bazzar"
+    ]
+  }
+
+  ,
+  {
+    "id": "tour2",
+    "name": "Holy Islamic and Coptic Cairo",
+    "description": "Explore the spiritual tapestry of Egypt with our Holy Islamic and Coptic Cairo Private Day Tour. Discover sacred sites that unite Christians, Muslims, and Jews in a journey of faith and history. Visit the Citadel of Saladin, the iconic Mosque of King Mohamed Ali, and delve into the rich heritage of Coptic Cairo. Explore the Cavern Church, Old Synagogue, Old Fortress of Papillon, and the breathtaking Hanging Church. Immerse yourself in the timeless spirituality of Egypt and gain a deeper understanding of its cultural diversity. Book your tour today for an unforgettable experience.",
+    "overview": "Join us on an extraordinary tour that bridges faiths and offers a unique blend of Christian and Islamic sightseeing in the captivating city of Cairo. This immersive experience will take you on a spiritual journey like no other.Our journey begins at the magnificent Citadel of Saladin, an iconic Islamic fortress that has stood the test of time. Here, you'll witness the grandeur of the famous Mosque of King Mohamed Ali, a testament to Islamic architecture and devotion.Continuing our exploration, we'll head to Coptic Cairo, where you'll have the opportunity to visit the church dedicated to Segius and Backus, also known as the Cavern Church. This sacred site holds centuries of history and reverence.But our journey doesn't end there. We'll delve into the rich Jewish heritage of Egypt, exploring the Old Synagogue and the Old Fortress of Papillon. These historical treasures bear witness to the enduring presence of the Jewish community in Egypt.Finally, we'll visit the iconic Hanging Church, an architectural marvel suspended in time, representing the deep-rooted Christian faith in Egypt.As the day comes to a close, we'll ensure your safe return to your hotel in Cairo, leaving you with a heart full of cherished memories and a deeper understanding of the interwoven tapestry of faiths in this remarkable land.Embark on a spiritual odyssey that transcends boundaries and connects souls. Book your Holy Islamic and Coptic Cairo Private Day Tour today and embark on a journey that will leave you spiritually enriched and culturally enlightened.",
+    "price": 12.98,
+    "coverPhoto": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flickr_-_HuTect_ShOts_-_Citadel_of_Salah_El.Din_and_Masjid_Muhammad_Ali_%D9%82%D9%84%D8%B9%D8%A9_%D8%B5%D9%84%D8%A7%D8%AD_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D8%A7%D9%84%D8%A3%D9%8A%D9%88%D8%A8%D9%8A_%D9%88%D9%85%D8%B3%D8%AC%D8%AF_%D9%85%D8%AD%D9%85%D8%AF_%D8%B9%D9%84%D9%8A_-_Cairo_-_Egypt_-_17_04_2010_%284%29.jpg",
+    "photos": [
+      "https://media.tacdn.com/media/attractions-splice-spp-674x446/0a/01/33/16.jpg",
+      "https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/01/33/3a.jpg",
+      "https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/01/33/3b.jpg",
+      "https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/01/33/48.jpg"
+      
+    ],
+    
+    
+    "destinations": [
+      "Certified Egyptologist guide",
+      "Hotel pickup",
+      "Bottle of water",
+      "Visits to sacred sites",
+      "Private tour"
+    ]
+  },
+  {
+    "id": "tour3",
+    "name": "CAIRO TOUR TO THE NATIONAL MUSEUM OF EGYPTIAN CIVILIZATION CITADEL AND OLD CAIRO",
+    "description": "Embark on an unforgettable 8-hour adventure in Cairo, starting daily at 8:00 am and concluding at 16:00 pm. This private tour offers the utmost convenience, including pick-up and drop-off from your Cairo location, eliminating any travel hassles. Dive deep into Cairo's rich history and culture as you explore its renowned landmarks with the guidance of an expert tour guide. Your all-inclusive package covers entry fees, lunch at a local restaurant, bottled water, taxes, and all transfers in private, air-conditioned vehicles. Experience Cairo's culinary delights, stay hydrated, and travel in comfort with the newest model vehicles. With personal freedom to explore or shop at your leisure and tipping as you choose, this Cairo tour promises an enriching and hassle-free experience.",
+    "overview": "Our 8-hour Cairo tour is an immersive journey that transports you through time to explore the captivating history of Egypt. From 8:00 am to 16:00 pm, you'll be treated to an exclusive private experience, starting with convenient pick-up and drop-off services from your Cairo location. Your expert tour guide will unravel the mysteries of Cairo's ancient wonders, including the famed pyramids, temples, and tombs. Indulge in the delectable flavors of Egypt with a satisfying lunch at a local restaurant and stay refreshed with complimentary bottled water. Our modern and comfortable private A/C vehicles ensure a smooth and enjoyable ride as you traverse the city's treasures. With the flexibility to tailor your adventure and the freedom to decide on tipping, this tour combines historical exploration with modern comfort seamlessly.",
+    "price": 10,
+    "coverPhoto": "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_headers/312207/900x600-1-50-71fe710f091141904f2ccef941752458.jpg",
+    "photos": [
+      "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_headers/312207/900x600-1-50-71fe710f091141904f2ccef941752458.jpg",
+      "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_galleries/312207/900x600-1-50-0cd77815b96563f1e4eefbc33551e89a.jpg",
+      "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_galleries/312207/900x600-1-50-fcace8259b38b94c263eee18ac63bf84.jpg",
+      "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_galleries/312207/900x600-1-50-e9cd6d8ea008c58bc25d4e1de72d5722.jpg",
+      "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_galleries/312207/900x600-1-50-c9055463739148f06403554b431b5fec.jpg",
+      "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_galleries/312207/900x600-1-50-cb56561322dd69b2271dbde9b9a6958d.jpg"
+    ],
+
+    
+    "fullPackage1person":140,
+    "fullPackage2person":90,
+    "fullPackage3to5person":85,
+    "fullPackageabove6Person":65,
+    "fullPackagechildfrom6":45,
+    "fullPackagechildunder6":0,
+
+    "CarTourEntry1person":120,
+    "CarTourEntry2person":85,
+    "CarTourEntry3to5person":70,
+    "CarTourEntryAbove6person":60,
+    "CarTourEntrychildFrom6person":35,
+    "CarTourEntryChildUnder6person":0,
+
+    "CarTour1Person":85,
+    "CarTour2Person":45,
+    "CarTour3to5Person":35,
+    "CarTourAbove6Person":20,
+    "CarTourChildFrom6Person":15,
+    "CarTourChildUnder6Person":0,
+
+    "carOnly1person":60,
+    "carOnly2person":35,
+    "carOnly3to5person":25,
+    "carOnlyAbove6person":15,
+    "carOnlyChildFrom6person":10,
+    "carOnly1ChildUnder6person":0,
+
+    "destinations": [
+      "- The national museum of Egyptian civilization",
+      "- OLD CAIRO"
+      
+    ]
+  }
+  ,
+  
+  
+  {
+    "id": "tour4",
+    "name": "Giza Pyramids, Sphinx, Memphis, Saqqara, Lunch & Camels",
+    "description": "Join us on a captivating half-day adventure that immerses you in Egypt's rich history and iconic landmarks. Leave the hustle of Giza behind as you explore the mysteries of the Giza Pyramids, stand in awe of the Great Sphinx, and discover the historic Valley Temple. Dive into the past in the ancient city of Memphis and explore Saqqara, home to one of Egypt's earliest pyramid structures. Top it all off with a thrilling camel ride through the desert, capturing breathtaking views, and savoring an authentic Egyptian lunch. This tour promises an enriching and seamless exploration of Egypt's renowned wonders.",
+    "overview": "Embark on an extraordinary half-day journey that immerses you in the essence of Egypt's rich history and culture, leaving the persistent hawkers of Giza behind. This adventure offers seamless exploration with convenient door-to-door transfers, ensuring you can focus on the wonders that await. Delve into the mysteries of ancient Egypt at the UNESCO World Heritage Giza Pyramids, where your expert guide unveils their secrets, allowing you to marvel at their grandeur and capture iconic photos. Stand in awe of the enigmatic Great Sphinx and the historic Valley Temple, where mummies were once crafted. Explore the ancient city of Memphis, witness the colossal statue of Ramses II, and venture to Saqqara to discover the Step Pyramid of Djoser, an early pyramid marvel. Experience the thrill of camel riding through the desert sands, relishing breathtaking vistas, and refuel with an authentic Egyptian lunch at a traditional restaurant. This tour promises an enriching and unforgettable journey through Egypt's historic treasures.",
+    "price": 167.00,
+    "coverPhoto": "https://media.tacdn.com/media/attractions-splice-spp-674x446/10/7e/8d/64.jpg",
+    
+    "fullPackage1person":150,
+    "fullPackage2person":200,
+    "fullPackage3to5person":300,
+    "fullPackageabove6Person":500,
+    "fullPackagechildfrom6":100,
+    "fullPackagechildunder6":0,
+
+    "CarTourEntry1person":200,
+    "CarTourEntry2person":200,
+    "CarTourEntry3to5person":200,
+    "CarTourEntryAbove6person":200,
+    "CarTourEntrychildFrom6person":200,
+    "CarTourEntryChildUnder6person":200,
+
+    "CarTour1Person":200,
+    "CarTour2Person":200,
+    "CarTour3to5Person":200,
+    "CarTourAbove6Person":200,
+    "CarTourChildFrom6Person":200,
+    "CarTourChildUnder6Person":200,
+
+    "carOnly1person":200,
+    "carOnly2person":200,
+    "carOnly3to5person":200,
+    "carOnlyAbove6person":200,
+    "carOnlyChildFrom6person":200,
+    "carOnly1ChildUnder6person":200,
+
+    "photos": [
+      "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/8b/8c/34.jpg",
+      "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/f9/fd/5f.jpg",
+      "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/f9/fd/6e.jpg",
+      "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/f9/fd/70.jpg"
+      
+    ],
+    "destinations": [
+      "Certified Egyptologist guide",
+      "Hotel pickup",
+      "Bottle of water",
+      "Visits to sacred sites",
+      "Private tour"
+    ]
+  }
+  ,
+  {
+    "id": "tour5",
+    "name": "Tour of the Pyramids, Egyptian Museum and Bazaar from Cairo",
+    "description": "Experience the best of Cairo's iconic landmarks on a private, full-day tour that unveils the city's rich history and vibrant culture. Ride a camel through the desert to witness the awe-inspiring pyramids and the enigmatic Sphinx. Delve into Egypt's past at the Egyptian Museum, where a stunning collection of artifacts, mummies, and royal treasures await. Finish your day with a visit to the bustling Khan el Khalili bazaar, where you can explore vibrant displays and find unique souvenirs. This personalized tour offers an unforgettable journey through Cairo's essential destinations, expertly guided by experienced locals.",
+    "overview": " Embark on an extraordinary full-day private tour that encapsulates the very essence of Cairo's treasures. Ride a camel through the desert sands to marvel at the iconic pyramids of Giza and the enigmatic Sphinx. Discover Egypt's rich history and culture with a visit to the Egyptian Museum, where artifacts, mummies, and royal treasures await. Your journey culminates in the vibrant Khan el Khalili bazaar, where you can browse colorful displays of fabrics, handicrafts, and antiques, and find unique souvenirs. This immersive experience combines ancient wonders, expert guidance, and the personalized touch of a private tour for an unforgettable adventure in Cairo.",
+    "price": 99.00,
+    "coverPhoto": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/38/76/d7.jpg",
+    "photos": [
+      "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/74/cc/99.jpg",
+      "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/38/76/69.jpg",
+      "https://media.tacdn.com/media/attractions-splice-spp-674x446/09/c3/3d/96.jpg",
+      "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/74/cc/99.jpg",
+      "data:image/jpeg;base64,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"
+      
+    ],
+      
+
+    "whatIncluded": [
+      "Certified Egyptologist guide",
+      "Hotel pickup",
+      "Bottle of water",
+      "Visits to sacred sites",
+      "Private tour"
+    ]
+  }
+ ,
+ {
+  "id": "tour6",
+  "name": "CAIRO TOUR TO EGYPTIAN MUSEUM AND CAIRO TOWER & BOAT RIDE ON THE NILE",
+  "description": "Embark on an unforgettable 8-hour Cairo tour, available daily from 8:00 am to 4:00 pm, that promises a truly private and hassle-free experience. Your journey begins with convenient pick-up and drop-off services from your location in Cairo, ensuring a seamless start and end to your adventure. Explore the city's iconic attractions with the expertise of an expert tour guide, including entry fees and lunch at a local restaurant. Enjoy the comfort of traveling in the newest model of private air-conditioned vehicles, complete with all taxes and services included. Stay refreshed with complimentary bottled water throughout your excursion. With personal items and tipping as the only exclusions, this tour offers a comprehensive and convenient way to discover Cairo's treasures.",
+  "overview": "Experience the essence of Egypt's rich history and modern allure in one unforgettable day. Your journey begins at the Egyptian Museum of Antiquities, where you'll marvel at a rare collection of over 250,000 genuine artifacts spanning 5,000 years. Don't miss the exclusive exhibit dedicated to Tutankhamun's treasures, a glimpse into a world frozen in time for over 3,500 years. Afterward, capture stunning memories at the Cairo Tower, a modern marvel, with the guidance of our expert photographer. Then, venture to downtown Cairo for a serene Felucca boat ride along the majestic Nile. Whether you're soaking up the city's vibrant nightlife or basking in the warm sunlight, this experience offers a unique perspective of Cairo. When the ride concludes, our representative will ensure your safe return to your hotel, leaving you with cherished memories of Egypt's past and present.",
+  "price": 60.00,
+  "coverPhoto": "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_galleries/316339/900x600-1-50-59a7e101643dd417599f4015155743ee.jpg",
+  "photos": [
+    "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_galleries/316339/900x600-1-50-59a7e101643dd417599f4015155743ee.jpg",
+    "https://egypttravelholidays.com/wp-content/uploads/Cairo-Aswan-Luxor-9-days-8-nights/nile-cairo.jpg",
+    "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_galleries/316339/900x600-1-50-ac3c3adf2dfdf793be6909810d30ccae.jpg",
+    "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_galleries/316339/900x600-1-50-956625f73b900ed5151a260aa72a711c.jpg",
+    "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_galleries/316339/900x600-1-50-a2b7ba1e2e3ff05764740fe8f0a41e75.jpg",
+    "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_galleries/316339/900x600-1-50-5510a8bfbb0f3ad12e6c086498212832.jpg",
+    "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_galleries/316339/900x600-1-50-54bbc54ca189c2f9fa0e37548916c02d.jpg"
+    
+  ],
+  
+  "fullPackage1person":140,
+  "fullPackage2person":90,
+  "fullPackage3to5person":85,
+  "fullPackageabove6Person":65,
+  "fullPackagechildfrom6":45,
+  "fullPackagechildunder6":0,
+
+  "CarTourEntry1person":120,
+  "CarTourEntry2person":85,
+  "CarTourEntry3to5person":70,
+  "CarTourEntryAbove6person":60,
+  "CarTourEntrychildFrom6person":35,
+  "CarTourEntryChildUnder6person":0,
+
+  "CarTour1Person":85,
+  "CarTour2Person":45,
+  "CarTour3to5Person":35,
+  "CarTourAbove6Person":20,
+  "CarTourChildFrom6Person":15,
+  "CarTourChildUnder6Person":0,
+
+  "carOnly1person":60,
+  "carOnly2person":35,
+  "carOnly3to5person":25,
+  "carOnlyAbove6person":15,
+  "carOnlyChildFrom6person":10,
+  "carOnly1ChildUnder6person":0,
+
+  "destinations": [
+    "- Egyptian Museum ",
+    "- Cairo Tour",
+    "- Nile"
+   
+  ]
+}
+,
+
+{
+  "id": "tour7",
+  "name": "CAIRO TOUR TO EGYPTIAN MUSEUM CITADEL AND KHAN KHALILI BAZAAR",
+  "description": "Discover the wonders of Cairo with our 8-hour private tour, available daily from 8:00 am to 4:00 pm. We ensure a seamless experience with inclusive services, including pick-up and drop-off from your Cairo location, entry fees, an expert tour guide, a delightful lunch at a local restaurant, all taxes, and a refreshing bottle of water. Travel in style and comfort with our latest model private A/C vehicles. Please note that personal items and tipping are not included, allowing you to focus solely on enjoying Cairo's treasures hassle-free.",
+  "overview": "Embark on a captivating journey starting at 8:00 am as our Emo Tours Egypt guide collects you from your hotel. This full-day adventure takes you to the heart of Egypt's heritage, beginning with a visit to the Egyptian Museum, home to an astounding collection of over 250,000 artifacts dating back 5,000 years, including the legendary treasures of Tutankhamun. Next, explore the historic Citadel, where the stunning Alabaster Mosque of Mohamed Ali Pasha awaits. Dive into the vibrant atmosphere of Khan El Khalili Bazaar, renowned for its exquisite crafts and treasures. As your day concludes, we'll return you to your hotel. And for those seeking an extra touch of magic, consider adding a serene Felucca ride on the Nile during the booking process, elevating your Cairo experience to new heights. Explore, discover, and create memories that will last a lifetime.",
+  "price": 60.00,
+  "coverPhoto": "https://images.myguide-cdn.com/cairo/companies/cairo-pyramids-egyptian-museum-and-citadel-tour/large/cairo-pyramids-egyptian-museum-and-citadel-tour-1305648.jpg",
+  "photos": [
+    "https://images.myguide-cdn.com/cairo/companies/cairo-pyramids-egyptian-museum-and-citadel-tour/large/cairo-pyramids-egyptian-museum-and-citadel-tour-1305648.jpg",
+    "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_galleries/40223/900x600-1-50-bfb217cfba9e36536cdff96e620dcde4.jpg",
+    "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_galleries/316339/900x600-1-50-ac3c3adf2dfdf793be6909810d30ccae.jpg",
+    "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_galleries/316339/900x600-1-50-5510a8bfbb0f3ad12e6c086498212832.jpg",
+    "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_galleries/316339/900x600-1-50-54bbc54ca189c2f9fa0e37548916c02d.jpg",
+    "https://www.introducingegypt.com/f/egipto/egipto/guia/khan-el-khalili-m.jpg"
+    
+  ],
+  
+  "fullPackage1person":140,
+  "fullPackage2person":90,
+  "fullPackage3to5person":85,
+  "fullPackageabove6Person":65,
+  "fullPackagechildfrom6":45,
+  "fullPackagechildunder6":0,
+
+  "CarTourEntry1person":120,
+  "CarTourEntry2person":85,
+  "CarTourEntry3to5person":70,
+  "CarTourEntryAbove6person":60,
+  "CarTourEntrychildFrom6person":35,
+  "CarTourEntryChildUnder6person":0,
+
+  "CarTour1Person":85,
+  "CarTour2Person":45,
+  "CarTour3to5Person":35,
+  "CarTourAbove6Person":20,
+  "CarTourChildFrom6Person":15,
+  "CarTourChildUnder6Person":0,
+
+  "carOnly1person":60,
+  "carOnly2person":35,
+  "carOnly3to5person":25,
+  "carOnlyAbove6person":15,
+  "carOnlyChildFrom6person":10,
+  "carOnly1ChildUnder6person":0,
+
+  "destinations": [
+    "- Egyptian Museum ",
+    "- Citadel",
+    "- Khan Khalili"
+   
+  ]
+}
+    ,
+
+    {
+      "id": "tour8",
+      "name": "CAIRO TOUR TO EGYPTIAN MUSEUM CITADEL AND OLD CAIRO",
+      "description":"Embark on a captivating journey with our Cairo Tour to the Egyptian Museum, Citadel, and Old Cairo. Your adventure begins at 8:00 am, starting with a visit to the Egyptian Museum, where you'll explore a treasure trove of artifacts spanning 5,000 years, including the legendary Tutankhamun collection. Next, immerse yourself in the historic Citadel, home to the magnificent Alabaster Mosque of Mohamed Ali Pasha. Finally, step back in time as you wander through the enchanting streets of Old Cairo, with its ancient mosques, churches, and vibrant bazaars. ",
+      "overview":"Embark on an enchanting journey through the heart of Cairo with our full-day tour, commencing at 8:00 am with the convenience of hotel pickup in Cairo or Giza by our Emo Tours guide. First on the agenda is a visit to the world-renowned Egyptian Museum, home to an unparalleled collection of over 250,000 genuine artifacts, including the mesmerizing Tutankhamen exhibit, a glimpse into treasures hidden for millennia.Next, you'll ascend to the historic Citadel of Cairo, where you'll be awed by the grandeur of the Alabaster Mosque of Mohamed Ali Pasha. Then, step back in time in Old Cairo, known as Christian Coptic Cairo, where the Holy Family once sought refuge. Explore the spiritual landmarks of this district, including the Church of Abu Serga, St. Barbara, the Hanging Church, and the Ben Ezra Synagogue, all exuding an air of piety and devotion.As your day concludes around 5:00 pm, we'll smoothly transfer you back to your Cairo hotel. Enhance your experience with optional visits to the Coptic Museum or a tranquil Felucca boat ride on the Nile, easily added during the booking process. Uncover the rich history and spirituality of Cairo in one unforgettable journey with Araby's Tours.",
+      "price": 60.00,
+      "coverPhoto": "https://cdn.getyourguide.com/img/tour/5dcd2d804448b.jpeg/146.jpg",
+      "photos": [
+
+        "https://cdn.getyourguide.com/img/tour/5dcd2d804448b.jpeg/146.jpg",
+        "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_headers/40313/900x600-1-50-263388ebad1ad5a356599f21307c372a.jpg",
+        "https://cdn.getyourguide.com/img/tour/5dcd2d804448b.jpeg/146.jpg",
+        "https://www.gpsmycity.com/img/gd/2342.jpg",
+        "https://images.memphistours.com/large/463e7cfaf03d702359ae281579cb1539.jpg",
+        "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_galleries/316339/900x600-1-50-ac3c3adf2dfdf793be6909810d30ccae.jpg",
+        "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_galleries/316339/900x600-1-50-5510a8bfbb0f3ad12e6c086498212832.jpg",
+        "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_galleries/316339/900x600-1-50-54bbc54ca189c2f9fa0e37548916c02d.jpg",
+        "https://www.introducingegypt.com/f/egipto/egipto/guia/khan-el-khalili-m.jpg"
+
+        
+      ],
+      
+      "fullPackage1person":140,
+      "fullPackage2person":90,
+      "fullPackage3to5person":85,
+      "fullPackageabove6Person":65,
+      "fullPackagechildfrom6":45,
+      "fullPackagechildunder6":0,
+    
+      "CarTourEntry1person":120,
+      "CarTourEntry2person":85,
+      "CarTourEntry3to5person":70,
+      "CarTourEntryAbove6person":60,
+      "CarTourEntrychildFrom6person":35,
+      "CarTourEntryChildUnder6person":0,
+    
+      "CarTour1Person":85,
+      "CarTour2Person":45,
+      "CarTour3to5Person":35,
+      "CarTourAbove6Person":20,
+      "CarTourChildFrom6Person":15,
+      "CarTourChildUnder6Person":0,
+    
+      "carOnly1person":60,
+      "carOnly2person":35,
+      "carOnly3to5person":25,
+      "carOnlyAbove6person":15,
+      "carOnlyChildFrom6person":10,
+      "carOnly1ChildUnder6person":0,
+    
+      "destinations": [
+        "- Egyptian Museum ",
+        "- Citadel",
+        "- OLD CAIRO"
+       
+      ]
+    }
+    ,
+    {
+      "id": "tour9",
+      "name": "CAVE CHURCH OF SAINT SIMON AND GARBAGE CITY",
+      "description":"Explore the captivating Cave Church of Saint Simon and the unique Garbage City on this Cairo tour. Starting at 8:00 am, this 5 to 6-hour private excursion encompasses the fascinating Cave Church of Saint Simon and the intriguing Garbage City. Your adventure includes pick-up and drop-off at your Cairo location, entry fees, expert guidance, taxes, and services.  ",
+      "overview":"Embark on a remarkable journey starting at 8:00 am, as you gather in the lobby of your Cairo hotel to meet your expert tour guide, easily identified by a sign bearing your name. Your day begins with a visit to the Cave Church, a monumental religious site in Egypt that hosts a congregation of over 70,000 Christians every week. Nestled within the Mokattam mountain in southeastern Cairo, this cave, also known as the Monastery of Saint Simon, is situated in an area known as 'garbage city' due to its significant population of garbage collectors, known as the Zabbaleen.The Zabbaleen are descendants of farmers who migrated from Upper Egypt to Cairo in the 1940s, seeking employment and a better life. Initially adhering to their agricultural traditions, they eventually transitioned into collecting and sorting the city's waste, a more lucrative venture. They meticulously sift through household garbage, salvaging valuable items and utilizing organic waste to feed their animals. This sustainable model attracted additional migrants from Upper Egypt, leading to the establishment of thriving garbage villages in Cairo.",
+      "price": 50.00,
+      "coverPhoto": "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_teasers/314108/600x400-1-50-c70a96a2e3265df06126810abcfab2d9.jpg",
+      "photos": [
+"https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_teasers/314108/600x400-1-50-c70a96a2e3265df06126810abcfab2d9.jpg",
+        "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_headers/314108/900x600-1-50-82c6b045c2b901cde2bfd2541363289a.jpg",
+        "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_galleries/314108/900x600-1-50-a70ba61bf9916fa4e0eaa847577b5b21.jpg",
+        "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_galleries/314108/900x600-1-50-10ee2ef4de5f5d3df0195fbffca0545a.jpg",
+        "https://www.gpsmycity.com/img/gd/2342.jpg"
+        
+        
+      ],
+      
+      "fullPackage1person":75,
+      "fullPackage2person":60 ,
+      "fullPackage3to5person":50 ,
+      "fullPackageabove6Person":35,
+      "fullPackagechildfrom6":45,
+      "fullPackagechildunder6":0,
+    
+      "CarTourEntry1person":120,
+      "CarTourEntry2person":85,
+      "CarTourEntry3to5person":70,
+      "CarTourEntryAbove6person":60,
+      "CarTourEntrychildFrom6person":35,
+      "CarTourEntryChildUnder6person":0,
+    
+      "CarTour1Person":85,
+      "CarTour2Person":45,
+      "CarTour3to5Person":35,
+      "CarTourAbove6Person":20,
+      "CarTourChildFrom6Person":15,
+      "CarTourChildUnder6Person":0,
+    
+      "carOnly1person":60,
+      "carOnly2person":35,
+      "carOnly3to5person":25,
+      "carOnlyAbove6person":15,
+      "carOnlyChildFrom6person":10,
+      "carOnly1ChildUnder6person":0,
+    
+      "destinations": [
+        "- Cave church of Saint Simon ",
+        "- Garbage City"
+       
+        
+      ]
+    }
+    ,
+
+    {
+      "id": "tour10",
+      "name": "CAVE CHURCH OF SAINT SIMON AND OLD CAIRO CHURCHES WITH LUNCH",
+      "description":"Explore the remarkable El Mokattam Mountain Cave Church, also known as the Monastery of St. Simon, on a private tour that unveils the splendor of Coptic Cairo's iconic churches. This exclusive experience not only takes you to some of Cairo's most significant Christian landmarks, such as the Saints Sergius and Bacchus Church, the Church of Saint Barbara, and the Hanging Church, but it also delves deeper into the city's cultural fabric. Venture into the intriguing realm of 'garbage city,' a captivating neighborhood often overlooked by most visitors, and gain a unique perspective on Cairo's rich heritage.",
+      "overview":"Embark on a captivating journey beginning at 8:00 am as you await your expert tour guide in the lobby of your Cairo hotel. Your adventure commences with a visit to the awe-inspiring 'Cave Church' in Egypt, also known as the Monastery of Saint Simon. This monumental church stands as one of the largest in the nation and serves as a sanctuary for over 70,000 Christians who gather here weekly to celebrate and honor Jesus. Located within the Mokattam mountain in southeastern Cairo, this sacred site resides within an area known as 'garbage city', a vibrant community predominantly occupied by garbage collectors known as the Zabbaleen.The Zabbaleen trace their roots to Upper Egypt, with their migration to Cairo dating back to the 1940s. Driven by economic challenges and seeking better opportunities, they established makeshift settlements around the city. Initially adhering to their agricultural traditions, the Zabbaleen later found the collection and sorting of waste from city residents to be a more lucrative endeavor. They meticulously sift through household garbage, salvaging valuable items for resale, while the organic waste sustains their livestock. This ingenious system attracted successive waves of migrants from Upper Egypt, resulting in the establishment of thriving garbage villages in Cairo.Your journey continues with a visit to Old Cairo, where you'll encounter some of the earliest Christian churches in the Middle East, dating back to 300 AD. Explore the historic Church of Abu-Sergah and St. Barbara, the renowned Hanging Church, and the ancient Jewish synagogue known as the Ben Ezra Synagogue. Finally, around 13:00 pm, you'll be comfortably transferred back to your hotel, concluding this enlightening and culturally rich tour.",
+      "price": 50.00,
+      "coverPhoto": "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_headers/234170/900x600-1-50-551de9f8d17a384221163d3bf95f064f.jpg",
+      "photos": [
+"https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_teasers/314108/600x400-1-50-c70a96a2e3265df06126810abcfab2d9.jpg",
+        "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_headers/314108/900x600-1-50-82c6b045c2b901cde2bfd2541363289a.jpg",
+        "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_galleries/314108/900x600-1-50-a70ba61bf9916fa4e0eaa847577b5b21.jpg",
+        "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_galleries/314108/900x600-1-50-10ee2ef4de5f5d3df0195fbffca0545a.jpg",
+        "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_galleries/303627/900x600-1-50-f9f7dadf2fb5cc8f8b232533e3a3cba4.jpg",
+        "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_galleries/303627/900x600-1-50-96396221a257c4bc60628720edd96049.jpg"
+        
+        
+      ],
+      
+      "fullPackage1person":115,
+      "fullPackage2person":70,
+      "fullPackage3to5person":50,
+      "fullPackageabove6Person":40,
+      "fullPackagechildfrom6":45,
+      "fullPackagechildunder6":0,
+    
+      "CarTourEntry1person":120,
+      "CarTourEntry2person":85,
+      "CarTourEntry3to5person":70,
+      "CarTourEntryAbove6person":60,
+      "CarTourEntrychildFrom6person":35,
+      "CarTourEntryChildUnder6person":0,
+    
+      "CarTour1Person":85,
+      "CarTour2Person":45,
+      "CarTour3to5Person":35,
+      "CarTourAbove6Person":20,
+      "CarTourChildFrom6Person":15,
+      "CarTourChildUnder6Person":0,
+    
+      "carOnly1person":60,
+      "carOnly2person":35,
+      "carOnly3to5person":25,
+      "carOnlyAbove6person":15,
+      "carOnlyChildFrom6person":10,
+      "carOnly1ChildUnder6person":0,
+    
+      "destinations": [
+        "- Cave Church of Saint Simon ",
+        "- Old Cario Churches"
+       
+        
+      ]
+    }
+    ,
+    {
+      "id": "tour11",
+      "name": "DAY TOUR TO BARON PALACE , ABDEEN PALACE AND MANIAL PALACE",
+      "description":"Experience the best of Egypt with our full-day tour, offering approximately 8 hours of captivating exploration. Starting at 8:00 am, this private tour ensures a seamless experience with hotel pickup and drop-off, private transportation in a comfortable A/C vehicle, and a knowledgeable private guide to accompany you throughout. Your journey includes entrance fees to top attractions, a delightful lunch at a quality restaurant, a refreshing bottle of water, and all service charges and taxes.",
+      "overview":"Get ready for a captivating and unique journey that delves into Egypt's rich history and opulent heritage. Your adventure begins at 8:00 am with a pickup from your hotel in Cairo by our expert tour guide.Our first stop is the magnificent 'Baron Palace', a true testament to the extraordinary life of Edward Empain, a man who played a pivotal role in the development of the Paris metro. His legacy lives on in this stunning palace, and you'll discover the fascinating history that connects him to Egypt.Next, we'll transport you to the lavish 'Abdeen Palace', renowned as one of the world's most opulent palaces. You'll be awestruck by the palace's exquisite decorations, ornate paintings, and a remarkable collection of clocks, many adorned with pure gold.Our final destination is the 'Manial Palace Museum of Prince Mohamed Ali', an architectural gem that seamlessly blends Islamic and European influences from different eras. This royal palace offers a unique glimpse into multiple cultures coexisting in one place. Be sure to capture some memorable photos of this captivating location.Throughout your journey, our expert guide will provide you with insights into the history and significance of each palace. After this immersive experience, we'll transfer you back to your hotel, ensuring a seamless and enriching exploration of Cairo's royal heritage.",
+      "price": 50.00,
+      "coverPhoto": "https://www.egypttoursportal.com/images/2023/01/Baron-Empain-Palace-Egypt-Tours-Portal.jpg",
+      "photos": [
+"https://www.egypttoursportal.com/images/2023/01/Baron-Empain-Palace-Egypt-Tours-Portal.jpg",
+        "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_galleries/303627/900x600-1-50-3cec386579281c630e539cce5283bd9e.jpg",
+        "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_galleries/303627/900x600-1-50-5c1e19f77f8e67095301051aab57808c.jpg",
+        "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_galleries/303627/900x600-1-50-ae12a303882765d70572959507e658c5.jpg",
+        "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_galleries/303627/900x600-1-50-886c52e8286f09df5ecaf9f652165817.jpg"
+      
+        
+        
+      ],
+      
+      "fullPackage1person":115,
+      "fullPackage2person":65,
+      "fullPackage3to5person":60,
+      "fullPackageabove6Person":45,
+      "fullPackagechildfrom6":35,
+      "fullPackagechildunder6":0,
+    
+      "CarTourEntry1person":90,
+      "CarTourEntry2person":60,
+      "CarTourEntry3to5person":50,
+      "CarTourEntryAbove6person":40,
+      "CarTourEntrychildFrom6person":35,
+      "CarTourEntryChildUnder6person":0,
+    
+      "CarTour1Person":70,
+      "CarTour2Person":35,
+      "CarTour3to5Person":30,
+      "CarTourAbove6Person":20,
+      "CarTourChildFrom6Person":15,
+      "CarTourChildUnder6Person":0,
+    
+      "carOnly1person":50,
+      "carOnly2person":25,
+      "carOnly3to5person":20,
+      "carOnlyAbove6person":12,
+      "carOnlyChildFrom6person":10,
+      "carOnly1ChildUnder6person":0,
+    
+      "destinations": [
+        "- BARON PALACE",
+        "- ABDEEN PALACE",
+        "- MANIAL PALACE"
+       
+        
+      ]
+    }
+  ]
+  
